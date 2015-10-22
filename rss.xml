@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Redd Sales]]></title>
         <description><![CDATA[Redd Sales]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/redd-sales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 23:19:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Oct 2015 23:26:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redd-sales/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d153f4-9b88-4cb9-9b00-dfcb5f120e2e.JPG">]]></description>
-            <link>undefineda256b580-85e6-4b30-81c5-278a7d0f5a1a/index.html</link>
+            <link>https://thegrid.ai/redd-sales/a256b580-85e6-4b30-81c5-278a7d0f5a1a/index.html</link>
             <guid isPermaLink="false">a256b580-85e6-4b30-81c5-278a7d0f5a1a</guid>
-            <pubDate>Thu, 22 Oct 2015 23:18:16 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2015 23:26:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
